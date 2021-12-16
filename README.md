@@ -2,7 +2,7 @@
 
 # Bitcoin Exchange Flow Widget for iOS
 
-Javascript code which creates an iOS widget to display on your Apple products home screen. This widget shows the amount of of Bitcoin flowing in, out and net movement within exchanges such as Binance.
+Javascript code which creates an iOS widget to display on your Apple products home screen. This widget shows the amount of Bitcoin flowing in, out and net movement within exchanges such as Binance.
 
 ## Installation / Usage 
 
