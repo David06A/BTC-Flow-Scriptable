@@ -5,7 +5,7 @@ Javascript code which creates an iOS widget to display on your Apple products ho
 ## Installation / Usage 
 
 1. Download Scriptable https://apps.apple.com/us/app/scriptable/id1405459188
-2. Copy the code within the `btcflow.js` file
+2. Copy the code within the `btcwidget.js` file
 3. Load the Scriptable App
 4. Press the + symbol on the top right to create a widget
 5. Rename the widget at the top to `btcflow`
