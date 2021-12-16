@@ -22,4 +22,4 @@ Javascript code which creates an iOS widget to display on your Apple products ho
 
 This code is completely free to use and be redistributed / modified. 
 
-However, if you are feeling particularly kind you can support myself by sending ADA to this address: 
+If you are feeling particularly kind you can support myself by sending ADA to this address: 
